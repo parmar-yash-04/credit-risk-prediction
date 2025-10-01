@@ -19,7 +19,7 @@ helping financial institutions make better lending decisions.
 <p>
 The dataset is very large (cannot be uploaded to GitHub due to the 25MB limit).  
 You can access the dataset here:  
-👉 <a href="https://www.kaggle.com/YOUR-DATASET-LINK" target="_blank"><b>Download Dataset from Kaggle</b></a>
+👉 <a href="https://drive.google.com/file/d/1xTW766DWN4dXBk4vkFOjBekxWKbpPMqJ/view?usp=sharing" target="_blank"><b>Download Dataset</b></a>
 </p>
 
 ---
@@ -69,7 +69,7 @@ jupyter notebook credit-risk-prediction.ipynb
 
 <h2>🔗 References</h2>
 <ul>
-  <li><a href="https://www.lendingclub.com/" target="_blank">LendingClub Data</a></li>
+  <li><a href="https://drive.google.com/file/d/1xTW766DWN4dXBk4vkFOjBekxWKbpPMqJ/view?usp=sharing" target="_blank">Dataset</a></li>
   <li><a href="https://www.kaggle.com/" target="_blank">Kaggle</a></li>
 </ul>
 
