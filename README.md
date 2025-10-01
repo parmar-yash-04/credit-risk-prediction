@@ -70,7 +70,7 @@ jupyter notebook credit-risk-prediction.ipynb
 <h2>🔗 References</h2>
 <ul>
   <li><a href="https://drive.google.com/file/d/1xTW766DWN4dXBk4vkFOjBekxWKbpPMqJ/view?usp=sharing" target="_blank">Dataset</a></li>
-  <li><a href="https://www.kaggle.com/" target="_blank">Kaggle</a></li>
+  <li><a href="https://www.kaggle.com/yahh0402" target="_blank">Kaggle</a></li>
 </ul>
 
 ---
